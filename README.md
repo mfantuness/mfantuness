@@ -25,5 +25,5 @@ Por isso, muitos dos projetos em que atuo são desenvolvidos em equipe e dentro 
 
 ## Contato
 
-* LinkedIn: [Meu LinkedIn](www.linkedin.com/in/fernanda-antunees)
+* LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/fernanda-antunees/)
 * Portfólio: [Meu portfólio](https://fernanda-portfolio-six.vercel.app/)
