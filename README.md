@@ -2,8 +2,6 @@
 
 Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI e estudante de Licenciatura em Computação na UFRPE.
 
-Tenho interesse em desenvolvimento de software, bancos de dados, análise de dados e qualidade de software.
-
 Atualmente, sou membro da Seed a Bit Tecnologia, onde participo de projetos e do desenvolvimento de soluções digitais. Também sou estagiária de Tecnologia da Informação no Conselho Regional de Farmácia de Pernambuco (CRF-PE), atuando com desenvolvimento de sistemas, automações, bancos de dados e suporte em tecnologia.
 Por isso, muitos dos projetos em que atuo são desenvolvidos em equipe e dentro dessas experiências, não estando necessariamente disponíveis neste perfil.
 
