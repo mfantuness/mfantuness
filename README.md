@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Eu sou Fernanda Antunes 👋
 
-<!--
-**mfantuness/mfantuness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI e estudante de Licenciatura em Computação na UFRPE.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software, bancos de dados, análise de dados e qualidade de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, sou membro da Seed a Bit Tecnologia, onde participo de projetos e do desenvolvimento de soluções digitais. Também sou estagiária de Tecnologia da Informação no Conselho Regional de Farmácia de Pernambuco (CRF-PE), atuando com desenvolvimento de sistemas, automações, bancos de dados e suporte em tecnologia.
+Por isso, muitos dos projetos em que atuo são desenvolvidos em equipe e dentro dessas experiências, não estando necessariamente disponíveis neste perfil.
+
+## Tecnologias
+
+* Python, Java, JavaScript e TypeScript
+* Next.js, React e FastAPI
+* PostgreSQL, MySQL e MongoDB
+* Git, GitHub e Docker
+
+## Projetos
+
+* **Ruralize:** Plataforma de sustentabilidade desenvolvida para a comunidade acadêmica da UFRPE.
+* **APMV:** Site institucional e sistema de gerenciamento de conteúdo. (Seed a Bit)
+* **Psicólogos do Nordeste:** Plataforma para cadastro de psicólogos e agendamento de consultas. (Seed a bit)
+
+## Formação
+
+* Licenciatura em Computação — UFRPE
+* Técnico em Análise e Desenvolvimento de Sistemas — SENAI
+
+## Contato
+
+* LinkedIn: [Meu LinkedIn](www.linkedin.com/in/fernanda-antunees)
+* Portfólio: [Meu portfólio](https://fernanda-portfolio-six.vercel.app/)
