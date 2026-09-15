@@ -1,4 +1,4 @@
-# Olá! Eu sou Fernanda Antunes 👋
+# Fernanda Antunes 👋
 
 Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI e estudante de Licenciatura em Computação na UFRPE.
 
