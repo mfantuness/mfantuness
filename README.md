@@ -1,6 +1,6 @@
 # Fernanda Antunes 👋
 
-Sou Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI, analista de projetos da @seedabit e estudante de Licenciatura em Computação na UFRPE.
+Sou Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI, analista de projetos da [@seedabit](https://github.com/seedabit) e estudante de Licenciatura em Computação na UFRPE.
 
 Atualmente, sou membro da Seed a Bit Tecnologia, onde participo de projetos e do desenvolvimento de soluções digitais. Também sou estagiária de Tecnologia da Informação no Conselho Regional de Farmácia de Pernambuco (CRF-PE), atuando com desenvolvimento de sistemas, automações, bancos de dados e suporte em tecnologia.
 Por isso, muitos dos projetos em que atuo são desenvolvidos em equipe e dentro dessas experiências, não estando necessariamente disponíveis neste perfil.
